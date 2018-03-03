@@ -7,7 +7,7 @@ while running the original code on my website I got a ton of problems with it so
 We need to creat a new google script - 
 https://gist.github.com/davidmccoy/6183c5a847bb79a4aef257eb6238af53#file-google_script-gs
 
-<script src="https://gist.github.com/davidmccoy/6183c5a847bb79a4aef257eb6238af53.js"></script>
+
 
 
 Write a simple form like this- 
