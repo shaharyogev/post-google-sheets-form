@@ -8,6 +8,8 @@ While running the original code on my website I got a ton of problems with it so
 We need to creat a new google script in a new google sheet - 
 https://gist.github.com/davidmccoy/6183c5a847bb79a4aef257eb6238af53#file-google_script-gs
 
+Go to the index.html here and copy the rest of the code. 
+
 Write a simple form like the one in the index file. 
 The second thing is to geet the - Serialize Object function-
 https://stackoverflow.com/questions/8900587/jquery-serializeobject-is-not-a-function-only-in-firefox
